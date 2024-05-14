@@ -1,0 +1,17 @@
+[package]
+authors = ["Jay Graber <graber.jay@gmail.com>"]
+description = "examples for bellman zk-SNARK library"
+url= "https://github.com/arcalinea/bellman-examples"
+license = "MIT/Apache-2.0"
+name = "first"
+version = "0.1.0"
+
+[lib]
+path = "src/mod.rs"
+
+[dependencies]
+rand = "0.4"
+bit-vec = "0.4.4"
+pairing = "0.14"
+byteorder = "1"
+bellman = "0.1.0"

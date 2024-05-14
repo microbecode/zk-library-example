@@ -1,0 +1,12 @@
+/home/laurip/src/zk-library-example/target/debug/deps/libbellman-ff01c6b0099637f4.rmeta: /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/lib.rs /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/multicore.rs /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/multiexp.rs /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/domain.rs /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/groth16/mod.rs /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/groth16/generator.rs /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/groth16/prover.rs /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/groth16/verifier.rs
+
+/home/laurip/src/zk-library-example/target/debug/deps/bellman-ff01c6b0099637f4.d: /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/lib.rs /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/multicore.rs /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/multiexp.rs /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/domain.rs /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/groth16/mod.rs /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/groth16/generator.rs /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/groth16/prover.rs /home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/groth16/verifier.rs
+
+/home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/lib.rs:
+/home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/multicore.rs:
+/home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/multiexp.rs:
+/home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/domain.rs:
+/home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/groth16/mod.rs:
+/home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/groth16/generator.rs:
+/home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/groth16/prover.rs:
+/home/laurip/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bellman-0.1.0/src/groth16/verifier.rs:
